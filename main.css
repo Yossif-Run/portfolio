@@ -1,0 +1,99 @@
+body {
+    background-color:#f3e5d8 ;
+}
+h1 {
+    text-transform: capitalize;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+    color: #7d4633;
+}
+h3 {
+    color: #6b344b;
+    margin-left: 15px;
+}
+li {
+    margin-bottom: 15px;
+}
+.container {
+    background-color: #fffefe;
+    width: 736px;
+    height: 1515px;
+    margin-left: 352px;
+    margin-right: 352px;
+    margin-top: 124px;
+    margin-bottom: 124px;
+    border-radius: 20px;
+}
+.prep-t {
+    background-color: #fff6fd;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.quantity1 {
+    color: #7d4633;
+    font-weight: bold;
+    
+    
+}
+.quantity2 {
+    color: #7d4633;
+    font-weight: bold;
+    margin-left: 17px ;
+    
+}
+.quantity3 {
+    color: #7d4633;
+    font-weight: bold;
+    margin-left: 8px ;
+    
+}
+.quantity4 {
+    color: #7d4633;
+    font-weight: bold;
+    margin-left: 33px ;
+    
+}
+img {
+    width: 660px;
+    height: 298px;
+    margin-top: 38px;
+    border-radius: 10px;
+}
+.align {
+    margin-left: 38px;
+    margin-right: 38px;
+    
+    
+}
+
+.l::marker {
+    color: #6b344b;
+}
+.In {
+    list-style-type: square;
+}
+.In::marker {
+    color: #7d4633;
+}
+.or::marker {
+    color: #7d4633;
+    font-weight: bold;
+}
+.Nu {
+    display: inline;
+    margin-right: 246px;
+}
+.bo {
+    font-weight: bold;
+}
+.list {
+    margin-left: 15px;
+}
+hr {
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
